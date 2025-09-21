@@ -41,12 +41,38 @@ Email Me 👉 ✉️ **[Reach Me](mailto:jaywantlugun@example.com)** For Collabo
 ![](https://github-contributor-stats.vercel.app/api?username=jaywantlugun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🌐 Featured Webpage Performance
-<div align="center">
-  <h3>🌟 100% Performance | Accessibility | Best Practices | SEO</h3>
-  <p>Check out my latest web project built with best practices and optimized for speed and accessibility!</p>
-  <a href="https://your-website-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Website-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website" />
+<div style="text-align: center; max-width: 700px; margin: 0 auto; padding: 20px; font-family: sans-serif;">
+
+  <!-- Heading -->
+  <h3 style="margin-bottom: 10px; font-size: 1.5rem;">
+    🌟 100% Performance | Accessibility | Best Practices | SEO
+  </h3>
+
+  <!-- Description -->
+  <p style="margin-bottom: 20px; font-size: 1rem; color: #555;">
+    Check out my latest web project built with best practices and optimized for speed and accessibility!
+  </p>
+
+  <!-- Image -->
+  <img 
+    src="https://github.com/user-attachments/assets/b884a098-0b54-423e-a54c-d84e1572a1dd" 
+    alt="Project Screenshot" 
+    width="552" height="345"
+    style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); margin-bottom: 20px;"
+  />
+
+  <!-- Link Badge -->
+  <a href="https://starter-template-react.vercel.app" target="_blank" style="display: inline-block;">
+    <img 
+      src="https://img.shields.io/badge/Visit_Website-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" 
+      alt="Visit Website" 
+      style="transition: transform 0.2s;"
+      onmouseover="this.style.transform='scale(1.05)'" 
+      onmouseout="this.style.transform='scale(1)'"
+    />
   </a>
+
 </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
