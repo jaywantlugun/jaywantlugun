@@ -37,9 +37,6 @@ Email Me 👉 ✉️ **[Reach Me](mailto:jaywantlugun@example.com)** For Collabo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaywantlugun&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 🌐 Featured Webpage Performance
 <div style="text-align: center; max-width: 700px; margin: 0 auto; padding: 20px; font-family: sans-serif;">
 
